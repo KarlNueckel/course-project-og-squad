@@ -11,7 +11,7 @@ import HomeFill from "../assets/icons/homeFill.svg";
 import Bell from "../assets/icons/bell.svg";
 import BellFill from "../assets/icons/bellFill.svg";
 import Post from "../assets/icons/post.svg";
-import PostFill from "../assets/icons/postfill.svg";
+import PostFill from "../assets/icons/postFill.svg";
 import Fav from "../assets/icons/favorites.svg";
 import FavFill from "../assets/icons/favoritesfill.svg";
 import Profile from "../assets/icons/profile.svg";
