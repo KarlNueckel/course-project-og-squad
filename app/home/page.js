@@ -1,5 +1,5 @@
 import Post from "@/components/post";
-import { getHomePageRecipes } from "@/Constants";
+import { getHomePageRecipes } from "@/constants";
 import SortFilterDropdown from "@/components/filterOptions";
 
 export default async function Home() {

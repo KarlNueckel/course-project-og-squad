@@ -2,7 +2,7 @@ import NotFoundPage from "@/app/not-found";
 import Profile from "@/components/profile";
 import ProfilePosts from "@/components/profilePosts";
 import Link from "next/link";
-import { fetchProfile } from "@/Constants";
+import { fetchProfile } from "@/constants";
 
 export default async function ProfilePage({ params }) {
   const { username } = params;
