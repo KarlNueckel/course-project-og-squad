@@ -15,7 +15,7 @@ import PostFill from "../assets/icons/postFill.svg";
 import Fav from "../assets/icons/favorites.svg";
 import FavFill from "../assets/icons/favoritesFill.svg";
 import Profile from "../assets/icons/profile.svg";
-import ProfileFill from "../assets/icons/profilefill.svg";
+import ProfileFill from "../assets/icons/profileFill.svg";
 import Autosuggest from "react-autosuggest";
 import Fuse from "fuse.js";
 import { fetchRecipeNames } from "@/Constants";
