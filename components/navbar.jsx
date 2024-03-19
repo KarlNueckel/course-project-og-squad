@@ -13,7 +13,7 @@ import BellFill from "../assets/icons/bellFill.svg";
 import Post from "../assets/icons/post.svg";
 import PostFill from "../assets/icons/postFill.svg";
 import Fav from "../assets/icons/favorites.svg";
-import FavFill from "../assets/icons/favoritesfill.svg";
+import FavFill from "../assets/icons/favoritesFill.svg";
 import Profile from "../assets/icons/profile.svg";
 import ProfileFill from "../assets/icons/profilefill.svg";
 import Autosuggest from "react-autosuggest";
